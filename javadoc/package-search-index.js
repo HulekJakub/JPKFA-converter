@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.edu.agh.kis.pz1.xml_parser"},{"l":"pl.edu.agh.kis.pz1.xml_parser.commons"},{"l":"pl.edu.agh.kis.pz1.xml_parser.generator"},{"l":"pl.edu.agh.kis.pz1.xml_parser.readers"}];updateSearchResults();
